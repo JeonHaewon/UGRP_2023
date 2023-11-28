@@ -6,12 +6,12 @@
 
 ## Files
 
-- **Training Model**: Files for training deep learning models
+- **training**: Files for training deep learning models
   - [Siamese_model_MFCC.ipynb](training/Siamese_model_MFCC.ipynb): Siamese network model trained with MFCC data
   - [Siamese_model_SG.ipynb](training/Siamese_model_SG.ipynb): Siamese network model trained with Spectrogram data
   - [Siamese_model_CG.ipynb](training/Siamese_model_CG.ipynb): Siamese network model trained with Chromagram data
   - [Siamese_model.ipynb](training/Siamese_model.ipynb): Enhanced performance version of the siamese network
-- **Test Model**: Files for testing deep learning models
+- **test**: Files for testing deep learning models
   - [Model_test.ipynb](test/Model_test.ipynb): Verifying Model Performance with Test Dataset
 
 ## Required packages
