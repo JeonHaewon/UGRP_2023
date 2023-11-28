@@ -1,4 +1,4 @@
-# UGRP_2023 - Siamese Network Deep Learning Model: Utilizing Audio Data Features for Similarity Measurement in Application
+# Siamese Network Deep Learning Model: Utilizing Audio Data Features for Similarity Measurement in Application
 
 ## Description
 - **People**: Haewon Jeon, Hwajung Lee, Haim Lee, Hyunju Song
