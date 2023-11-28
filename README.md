@@ -2,7 +2,7 @@
 
 ## Description
 - **People**: Haewon Jeon, Hwajung Lee, Haim Lee, Hyunju Song
-- **Abstract**: This is the project for UGRP(Undergraduate Research Program) in DGIST. Through this project, we wanted to create a deep learning model that verifies the similarity of music
+- **Abstract**: This is the project for UGRP(Undergraduate Group Research Program) in DGIST. Through this project, we wanted to create a deep learning model that verifies the similarity of music.
 
 ## Files
 
