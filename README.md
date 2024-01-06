@@ -15,7 +15,7 @@
   - [Model_test.ipynb](test/Model_test.ipynb): Verifying Model Performance with Test Dataset
 - **data augmentation**:
   - File for data augmentation: Implementing data augmentation by modifying keys and introducing noise
-  - [data augmentation.ipynb]()
+  - [data augmentation.ipynb](/data_augmentation.ipynb)
 
 ## Required packages
 - **tensorflow**: ```2.1.0```
