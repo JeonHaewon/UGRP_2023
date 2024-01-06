@@ -13,6 +13,9 @@
   - [Siamese_model.ipynb](training/Siamese_model.ipynb): Enhanced performance version of the siamese network
 - **test**: Files for testing deep learning models
   - [Model_test.ipynb](test/Model_test.ipynb): Verifying Model Performance with Test Dataset
+- **data augmentation**:
+  - File for data augmentation: Implementing data augmentation by modifying keys and introducing noise
+  - [data augmentation.ipynb]()
 
 ## Required packages
 - **tensorflow**: ```2.1.0```
